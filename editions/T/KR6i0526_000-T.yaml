@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0526/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說演道俗業經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0820.xml
+    old_id: T17n0820
+hash: sha256:3522391a34b51dbe26c7af92147aa5903e4acb7459b536e3f46606b588ad9cdb
