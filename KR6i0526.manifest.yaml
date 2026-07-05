@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0526_000.yaml, hash: 'sha256:3522391a34b51dbe26c7af92147aa5903e4acb7459b536e3f46606b588ad9cdb'}
-  - {seq: 1, filename: KR6i0526_001.yaml, hash: 'sha256:729a746ad59758726f270db7d697226641265f7014ccbd08bd88f62fc49ff8b2'}
+  - {seq: 1, filename: KR6i0526_001.yaml, hash: 'sha256:5c10bf0890445474da80e7df25f8ce5fb24e5a619d47cb9993b9f222ce00b25a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0526_001.markers.yaml, hash: 'sha256:71531d4f3718fbf473612c5e50a04cd3f97c9dc4e9c467567dcb2b9a9f1ddde0'}
+  - {seq: 0, role: markers, filename: assets/KR6i0526_000.markers.yaml, hash: 'sha256:e110849197399593cff335ad3b10646bea1db28e8c9abb805167bbd4e4e44b79'}
+  - {seq: 1, role: markers, filename: assets/KR6i0526_001.markers.yaml, hash: 'sha256:c47fb2230946033bcd8fccb9317a40ef8b47935cf85bf287c3b2ae3b5a5a0bf3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說演道俗業經
   type: juan
   level: 1
-hash: sha256:9d4af1b6b18d3165069255685622d2be5452efe6e8d8ff01d26b424aee9da507
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1db49507f6ba81a8fa5b27a8023ead9c4f02721f85685044cf49207535364097
