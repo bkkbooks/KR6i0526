@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0526/v1
 canonical_location: https://kanripo.org/bkk/KR6i0526/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說演道俗業經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0526_000.yaml, hash: 'sha256:3522391a34b51dbe26c7af92147aa5903e4acb7459b536e3f46606b588ad9cdb'}
-  - {seq: 1, filename: KR6i0526_001.yaml, hash: 'sha256:5c10bf0890445474da80e7df25f8ce5fb24e5a619d47cb9993b9f222ce00b25a'}
+  - {seq: 1, filename: KR6i0526_001.yaml, hash: 'sha256:9c5ffeae0d2024a85bf681cdf4fa96ce36b6abae6647db30c2446031538e957a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0526_000.markers.yaml, hash: 'sha256:e110849197399593cff335ad3b10646bea1db28e8c9abb805167bbd4e4e44b79'}
-  - {seq: 1, role: markers, filename: assets/KR6i0526_001.markers.yaml, hash: 'sha256:c47fb2230946033bcd8fccb9317a40ef8b47935cf85bf287c3b2ae3b5a5a0bf3'}
+  - {seq: 1, role: markers, filename: assets/KR6i0526_001.markers.yaml, hash: 'sha256:01c4584fa1cae1fc0f0f4adbc48ce752e8f4d07c3930f69cf63768e70894619b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說演道俗業經
   type: juan
   level: 1
-hash: sha256:1db49507f6ba81a8fa5b27a8023ead9c4f02721f85685044cf49207535364097
+hash: sha256:09a70e0fa9c4f3b10dbff951d54006bd6441bbbba1dfe8fbd577cd6998981126
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
